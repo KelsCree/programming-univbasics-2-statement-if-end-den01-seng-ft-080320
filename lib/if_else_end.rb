@@ -1,5 +1,6 @@
 # Write your solution here
-if
+time = Time.now
+if time
   
 else
   
